@@ -108,7 +108,7 @@ want to learn more and work on various types of projects.
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://ucr.zoom.us/rec/share/ajXxmmxkzRloMaWLdHcbhUcRvWit0WwLKIRweLZq1XVnv3Yuog_kYfo4PaEgMPsh.N3WGvHwWoeYUh9im?startTime=1648807617000)
 
 
 ## License
